@@ -67,6 +67,6 @@ src/
 
 Desenvolvido por **Victor Soares**
 
-- GitHub: [@seuusuario](https://github.com/victorsoaresho)
-- LinkedIn: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/victor-hugo-ferreira-soares-b15a511b8/)
+- GitHub: [Victor Soares](https://github.com/victorsoaresho)
+- LinkedIn: [Victor Soares](https://www.linkedin.com/in/victor-hugo-ferreira-soares-b15a511b8/)
 

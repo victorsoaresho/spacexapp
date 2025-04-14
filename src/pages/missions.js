@@ -21,7 +21,6 @@ export default function ViewMissions() {
     removeMission(id);
     setMissions((prevMissions) => prevMissions.filter((mission) => mission.id !== id));
 
-    // Exibe o alerta de sucesso
     Alert.alert("Missão removida", "A missão foi removida com sucesso.");
   };
 

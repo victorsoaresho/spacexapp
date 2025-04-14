@@ -24,7 +24,7 @@ export default function Card() {
       const response = await axios.get('https://api.spacexdata.com/v4/launches');
       const sliced = response.data.slice(0, 20);
       setMissions(sliced);
-      setFilteredMissions(sliced); // só usado na busca
+      setFilteredMissions(sliced); 
     } catch (error) {
       console.error('Erro ao buscar missões:', error);
     }
@@ -171,7 +171,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
     marginVertical: 5,
-    alignSelf: "stretch", // Garante que ocupe toda a largura possível
+    alignSelf: "stretch", 
   }
   
 });

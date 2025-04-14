@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "spacexapp",
+    "slug": "spacexapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-new",
+    "userInterfaceStyle": "black",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/logo-new.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo-new.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logo-new.png"
+    }
+  }
+}
